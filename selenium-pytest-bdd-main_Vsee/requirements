@@ -1,0 +1,7 @@
+pipenv
+pytest
+pytest-bdd
+selenium
+sttable
+webdriver-manager
+undetected-chromedriver

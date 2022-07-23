@@ -1,0 +1,10 @@
+class mainPageLocators:
+    username_field = "id~com.vsee.vsee.beta:id/loginEmailEdit"
+    password_field = "id~com.vsee.vsee.beta:id/loginPasswordEdit"
+    Sign_In_btn = "id~com.vsee.vsee.beta:id/loginSignInBut"
+    Start_new_chat_textview = "id~com.vsee.vsee.beta:id/empty_text_view_2"
+    Test_Call_option = "id~com.vsee.vsee.beta:id/itemContactListNameView"
+    DONE_tbn = "id~com.vsee.vsee.beta:id/action_done"
+    Input_field = "id~com.vsee.vsee.beta:id/chatEditText"
+    Send_btn = "id~com.vsee.vsee.beta:id/chatSendBut"
+    message_menu = "xpath~//androidx.appcompat.app.ActionBar.Tab[@content-desc='Chats']/android.widget.ImageView"
